@@ -1,0 +1,14 @@
+NORTHSTAR LEGAL URL CONFIGURATION
+
+After GitHub Pages is published, copy the exact HTTPS base URL shown by GitHub Pages and fill in:
+
+PRIVACY_POLICY_URL=<BASE_URL>/privacy/
+TERMS_OF_SERVICE_URL=<BASE_URL>/terms/
+SUPPORT_URL=<BASE_URL>/support/
+
+Example only (do not use unless it is your actual GitHub Pages URL):
+PRIVACY_POLICY_URL=https://USERNAME.github.io/northstar-site/privacy/
+TERMS_OF_SERVICE_URL=https://USERNAME.github.io/northstar-site/terms/
+SUPPORT_URL=https://USERNAME.github.io/northstar-site/support/
+
+Then give these exact three URLs to Codex for the next staging build.

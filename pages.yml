@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Page not found">
+<meta name="theme-color" content="#2457A6">
+<title>Page Not Found | Northstar</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <nav class="nav" aria-label="Main navigation">
+    <a class="brand" href=""><span class="mark" aria-hidden="true">★</span><span>Northstar</span></a>
+    <div class="navlinks">
+      <a href="privacy/">Privacy</a>
+      <a href="terms/">Terms</a>
+      <a href="support/">Support</a>
+      <a href="delete-account/">Delete Data</a>
+      <a href="beta/">Beta</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+<section class="container" style="text-align:center;padding-top:6rem">
+ <div class="kicker">404</div><h1 style="font-size:2.5rem">Page not found</h1>
+ <p>The page you're looking for isn't here.</p>
+ <a class="button primary" href="./">Return to Northstar</a>
+</section>
+</main>
+
+<footer>
+ <div class="footer">
+   <div><strong>Northstar Beta</strong><br>Helping people find thoughtful ways to spend time together.</div>
+   <div class="footer-links">
+     <a href="privacy/">Privacy</a>
+     <a href="terms/">Terms</a>
+     <a href="support/">Support</a>
+     <a href="delete-account/">Data Deletion</a>
+   </div>
+   <div>Support: <a href="mailto:northstarapp.support@gmail.com">northstarapp.support@gmail.com</a></div>
+ </div>
+</footer>
+</body>
+</html>
