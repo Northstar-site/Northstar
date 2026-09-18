@@ -1,6 +1,8 @@
-# Northstar GitHub Pages Site
+# DateCompass Website
 
-Ready-to-publish static site for the invitation-only Northstar Android beta.
+Static public website for the invitation-only DateCompass Android beta.
+
+Production site: `https://getdatecompass.app/`
 
 ## Public pages
 - `/privacy/` — Privacy Policy
@@ -12,20 +14,15 @@ Ready-to-publish static site for the invitation-only Northstar Android beta.
 Support email: `northstarapp.support@gmail.com`
 
 ## Publish
-1. Create a new PUBLIC GitHub repository (recommended name: `northstar-site`).
-2. Upload **the contents of this folder** to the repository's `main` branch.
-3. In GitHub: **Settings → Pages**.
-4. Under **Build and deployment**, choose **GitHub Actions**.
-5. The included workflow will publish the site.
-6. GitHub will show your live HTTPS Pages URL.
+1. Push changes to the repository's `main` branch.
+2. In GitHub, open **Settings → Pages**.
+3. Under **Build and deployment**, choose **GitHub Actions**.
+4. The included workflow publishes the site.
 
-After publication, the three app configuration URLs are your Pages base URL plus:
-- `privacy/`
-- `terms/`
-- `support/`
-
-Example only:
-`https://USERNAME.github.io/northstar-site/privacy/`
+App configuration URLs:
+- `https://getdatecompass.app/privacy/`
+- `https://getdatecompass.app/terms/`
+- `https://getdatecompass.app/support/`
 
 ## Important policy decision used in this site
 The beta minimum age is set to **18 years old**. If you want a different minimum age, change the site before inviting testers.
