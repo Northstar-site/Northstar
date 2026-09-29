@@ -1,15 +1,17 @@
 # DateCompass Website
 
-Static public website for the invitation-only DateCompass Android beta.
+Static production website for DateCompass.
 
 Production site: `https://getdatecompass.app/`
 
 ## Public pages
+
 - `/privacy/` — Privacy Policy
-- `/terms/` — Terms of Service
+- `/terms/` — Terms of Use
 - `/support/` — Support
 - `/delete-account/` — Data Deletion
-- `/beta/` — Beta testing information
+
+Historical URL: `/beta/` is retained only as a `noindex` redirect to the production homepage. The former testing program is not current website guidance.
 
 Support email: `northstarapp.support@gmail.com`
 
@@ -24,8 +26,10 @@ App configuration URLs:
 - `https://getdatecompass.app/terms/`
 - `https://getdatecompass.app/support/`
 
-## Important policy decision used in this site
-The beta minimum age is set to **18 years old**. If you want a different minimum age, change the site before inviting testers.
+## Minimum age
 
-## Public-launch note
-These pages are tailored beta drafts and should be reviewed by qualified counsel before a public production launch.
+DateCompass is intended for people **age 16 and older**. Users aged 16 or 17 need a parent or guardian's permission where applicable. Keep the homepage, Privacy Policy, and Terms of Use consistent with this policy.
+
+## Policy maintenance
+
+Review public-policy changes before publishing them, and verify the live pages and links after deployment.
